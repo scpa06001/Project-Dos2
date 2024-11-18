@@ -35,7 +35,7 @@ header{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 600s linear infinite;
+    animation: move 1500s linear infinite;
 
 }
 
@@ -58,8 +58,10 @@ nav{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
+    transition: 0.5s;
 }
+
 
 .chair2 {
     font-size:larger;
@@ -67,7 +69,8 @@ nav{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
+    transition: 0.5s;
 }
 
 .chair3 {
@@ -76,7 +79,8 @@ nav{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
+    transition: 0.5s;
 }
 
 main{
@@ -125,19 +129,55 @@ width:100%;
 
 .bord2{
     grid-area:bord2;
-    background-color: #ffffff;;
+    background-color: #92242409;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: 0.5s;
     
+}
+.bord2:hover {
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 .bord3{
     grid-area:bord3;
-    background-color: #ffffff;;
+    background-color: #92242409;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: 0.5s;
     
+}
+.bord3:hover {
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 .bord4{
     grid-area:bord4;
-    background-color: #ffffff;
+    background-color: #92242409;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: 0.5s;
     
+}
+.bord4:hover {
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 .stol1{
@@ -152,15 +192,18 @@ width:100%;
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
 }
+
+
+
 .stol1 p1{
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
 }
 .stol1 p2{
     font-size:larger;
@@ -168,7 +211,7 @@ width:100%;
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
 }
 .stol1 p3{
     font-size:larger;
@@ -176,15 +219,15 @@ width:100%;
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
 }
-
-
-
 
 .stol2{
     grid-area:stol2;
-    background-color: #ffffff;;
+    background-color: #92242409;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: 0.5s;
     
 }
 
@@ -195,18 +238,83 @@ width:100%;
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1000s linear infinite;
+    
+}
+.stol2:hover {
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 .stol3{
     grid-area:stol3;
-    background-color: #ffffff;;
-    
+    background-color: #92242409;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: 0.5s;
+}
+
+.stol3:hover {
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 .stol4{
     grid-area:stol4;
-    background-color: #ffffff;;
+    background-color: #92242409;;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    transition: 0.5s;
     
+    
+}
+.stol4:hover {
+    font-size:large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
+}
+
+.chair3:hover {
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
+}
+
+.chair2:hover {
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
+}
+
+.chair1:hover {
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 @keyframes move { 
@@ -215,4 +323,5 @@ width:100%;
     }
     
 }
+
 

@@ -35,7 +35,7 @@ header{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 600s linear infinite;
+    animation: move 1500s linear infinite;
 
 }
 
@@ -58,7 +58,18 @@ nav{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
+    transition:0.5s;
+}
+
+.chair1:hover {
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 .chair2 {
@@ -67,7 +78,19 @@ nav{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
+    transition:0.5s;
+}
+
+.chair2:hover {
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+    
+
 }
 
 .chair3 {
@@ -76,7 +99,18 @@ nav{
     background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: move 1000s linear infinite;
+    animation: move 1500s linear infinite;
+    transition:0.5s;
+}
+
+.chair3:hover {
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1500s linear infinite;
+
 }
 
 main{
