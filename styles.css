@@ -14,6 +14,13 @@
 
 }
 
+:root {
+    --primary-color: #2e4053d2;
+    --secondary-color: #585a5c;
+    --text-color: black;
+    --accent-color: 
+}
+
 header{
     grid-area:header;
     display:flex;
@@ -25,12 +32,14 @@ header{
 }
 
 .rainbow-text{
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
     -webkit-background-clip: text;
     color: transparent;
-    animation: text 8s ease infinite;
+    animation: move 600s linear infinite;
 
 }
+
+
 
 
 
@@ -46,19 +55,28 @@ nav{
 .chair1 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(175, 205, 243);
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1000s linear infinite;
 }
 
 .chair2 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(175, 205, 243);
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1000s linear infinite;
 }
 
 .chair3 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(175, 205, 243);
+    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    -webkit-background-clip: text;
+    color: transparent;
+    animation: move 1000s linear infinite;
 }
 
 main{
@@ -77,7 +95,7 @@ main{
 aside{
     grid-area: aside;
     border: 1px solid black;
-    background-color: #cacaca;
+    background-color:whitesmoke;
 }
 
 footer{
@@ -88,55 +106,56 @@ footer{
 .bord1{
     grid-area:bord1;
     border: 1px solid black;
-    background-color:  #93b2c5e0;
+    background-color:var(--secondary-color);
     
 }
 
 .bord2{
     grid-area:bord2;
-    background-color: #d4d4d4;;
+    background-color: #ffffff;;
     
 }
 .bord3{
     grid-area:bord3;
-    background-color: #d4d4d4;;
+    background-color: #ffffff;;
     
 }
 
 .bord4{
     grid-area:bord4;
-    background-color: #d4d4d4;
+    background-color: #ffffff;
     
 }
 
 .stol1{
     grid-area:stol1;
     border: 1px solid black;
-    background-color:  #93b2c5e0;
+    background-color:var(--secondary-color);
     
 }
 
 .stol2{
     grid-area:stol2;
-    background-color: #d4d4d4;;
+    background-color: #ffffff;;
     
 }
 
 .stol3{
     grid-area:stol3;
-    background-color: #d4d4d4;;
+    background-color: #ffffff;;
     
 }
 
 .stol4{
     grid-area:stol4;
-    background-color: #d4d4d4;;
+    background-color: #ffffff;;
     
 }
 
-@keyframes text { 
-    0%{background-position:0% 50%}
-    50%{background-position:100% 25%}
-    100%{background-position:0% 50%}
+@keyframes move { 
+    to {
+        background-position: 4500vh;
+    }
+    
 }
 
