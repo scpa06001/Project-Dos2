@@ -32,7 +32,7 @@ header{
 }
 
 .rainbow-text{
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(216, 110, 110), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -55,7 +55,7 @@ nav{
 .chair1 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -66,7 +66,7 @@ nav{
 .chair2 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -76,7 +76,7 @@ nav{
 .chair3 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -138,7 +138,7 @@ width:100%;
 .bord2:hover {
     font-size:large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -155,7 +155,7 @@ width:100%;
 .bord3:hover {
     font-size:large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -173,7 +173,7 @@ width:100%;
 .bord4:hover {
     font-size:large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left, rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -189,7 +189,7 @@ width:100%;
 .stol1 p{
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -200,7 +200,7 @@ width:100%;
 .stol1 p1{
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left, rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -208,7 +208,7 @@ width:100%;
 .stol1 p2{
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -216,7 +216,7 @@ width:100%;
 .stol1 p3{
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -234,7 +234,7 @@ width:100%;
 .stol2 p{
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1000s linear infinite;
@@ -243,7 +243,7 @@ width:100%;
 .stol2:hover {
     font-size:large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -261,7 +261,7 @@ width:100%;
 .stol3:hover {
     font-size:large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -280,7 +280,7 @@ width:100%;
 .stol4:hover {
     font-size:large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -290,7 +290,7 @@ width:100%;
 .chair3:hover {
     font-size:xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -300,7 +300,7 @@ width:100%;
 .chair2:hover {
     font-size:xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -310,7 +310,7 @@ width:100%;
 .chair1:hover {
     font-size:xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;

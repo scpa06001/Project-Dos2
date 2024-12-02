@@ -32,7 +32,7 @@ header{
 }
 
 .rainbow-text{
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(230, 102, 102), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -55,7 +55,7 @@ nav{
 .chair1 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -65,7 +65,7 @@ nav{
 .chair1:hover {
     font-size:xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -75,7 +75,7 @@ nav{
 .chair2 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -85,7 +85,7 @@ nav{
 .chair2:hover {
     font-size:xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -96,7 +96,7 @@ nav{
 .chair3 {
     font-size:larger;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
@@ -106,7 +106,7 @@ nav{
 .chair3:hover {
     font-size:xx-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-image: linear-gradient(to left, rgb(43, 111, 189), rgb(78, 211, 252), rgb(88, 88, 255), rgb(47, 117, 209));
+    background-image: linear-gradient(to left,  rgb(255, 0, 0), rgb(192, 18, 18), rgb(189, 26, 26), rgb(201, 83, 83)));
     -webkit-background-clip: text;
     color: transparent;
     animation: move 1500s linear infinite;
